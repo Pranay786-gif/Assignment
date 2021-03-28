@@ -19,7 +19,7 @@ const ArticleDetailes=()=>{
         setUser(result.data);
        
      
-    } ;    
+    } ;   
     
      
     return(
