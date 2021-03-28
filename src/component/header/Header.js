@@ -7,7 +7,7 @@ const Header=()=>{
     const logout=()=>{
       localStorage.removeItem("login")
         history.push("/")
-    }
+    } 
     return(
         <div className="header">
         <Dropdown>
